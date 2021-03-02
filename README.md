@@ -3,7 +3,7 @@
 
 ## About me
 
-![About me](https://github-readme-stats.vercel.app/api?username=KristoffLiu&show_icons=true)
+![About me](https://github-readme-stats.vercel.app/api?username=liafbkt&show_icons=true)
 
 <!--
 **liafbkt/liafbkt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
